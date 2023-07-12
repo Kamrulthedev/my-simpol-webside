@@ -16,3 +16,10 @@ a{
     viewport-fit: 10px;
     border: 20px;
 }
+img{
+    border:solid 20px;
+    border-radius: 10px;
+    background: -moz-linear-gradient(red);
+    bottom: 20px;
+    color: darkred;
+}
