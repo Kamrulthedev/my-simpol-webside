@@ -4,3 +4,10 @@ div{
     margin-bottom :10px;
 
 }
+p{
+    background-color: blue;
+}
+h1{
+    border: 20px;
+    bottom: 30px;
+}
